@@ -27,17 +27,17 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 - Region & Category has negative correlation between quantity sold and profit per unit
 
 ## 📷 Sample Visuals
-![Monthly Sales Trend](images/monthly_sales.png)
-![Category-Wise Orders](images/category_orders.png)
+![Monthly Sales Trend](04_Images/Q_05_Monthly_Quantity_sold_cat.png)
+![Category-Wise Orders](04_Images/Q_02_04_both_wise_Distribution.png)
 
 ## 🚀 How to Run
 1. Clone this repo
-2. Open `notebooks/walmart_eda_analysis.ipynb`
-3. Make sure all required libraries are installed (see `requirements.txt`)
+2. Open `Walmart_EDA_code_visuals.ipynb`
+3. Make sure all required libraries are installed
 4. Run the notebook to view insights
 
 ## 🙋‍♂️ About Me
-Aspiring Data Analyst skilled in Python, Power BI, SQL, and Excel. [My Portfolio](https://siddes-analyst.github.io)
+Aspiring Data Analyst skilled in Python, Power BI, SQL, and Excel.
 
 ## 📬 Contact
 **Siddeswaran K**
