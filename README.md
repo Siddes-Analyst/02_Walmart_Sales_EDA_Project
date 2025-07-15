@@ -20,21 +20,28 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 - Jupyter Notebook (code)
 
 ## 📈 Key Insights
-- Region North had the highest sales but lowest profit margin
-- Top 5 products contributed to 40% of total revenue
-- 2024 had more consistent month-over-month growth
-- Repeated customer made 9% of sales and 10.5% of profit
-- Region & Category has negative correlation between quantity sold and profit per unit
+- Region `North` had the highest sales but lowest profit margin
+- Top 5 products contributed to `40%` of total revenue
+- `2024` had more consistent month-over-month growth
+- Repeated customer made `9%` of sales and `10.5%` of profit
+- Region & Category has `negative correlation` between quantity sold and profit per unit
 
 ## 📷 Sample Visuals
+
+| Monthly Sales Trend                                                 |
+|--------------------------------------------------------------------|
 ![Monthly Sales Trend](04_Images/Q_05_Monthly_Quantity_sold_cat.png)
+
+| Category-Wise Orders                                                  |
+|--------------------------------------------------------------------|
 ![Category-Wise Orders](04_Images/Q_02_04_both_wise_Distribution.png)
 
 ## 🚀 How to Run
 1. Clone this repo
 2. Open `Walmart_EDA_code_visuals.ipynb`
 3. Make sure all required libraries are installed
-4. Run the notebook to view insights
+4. Download the dataset and paste the dataset link into df
+5. Run the notebook to view insights
 
 ## 🙋‍♂️ About Me
 Aspiring Data Analyst skilled in Python, Power BI, SQL, and Excel.
