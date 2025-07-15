@@ -11,7 +11,7 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 - `01_Dataset & Case_Study/`: Contains raw CSV & Excel format datasets and EDA-Case Study
 - `02_Notebook/`: Jupyter Notebook with all the EDA code and visualizations
 - `03_Documentation/`: Summary of project for README or report
-- `04_Images/`: Plotted Chat images 
+- `04_Images/`: Plotted Chart images
 
 ## 🔧 Tools Used
 - Python (Pandas, NumPy)
@@ -23,7 +23,7 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 - Region North had the highest sales but lowest profit margin
 - Top 5 products contributed to 40% of total revenue
 - 2024 had more consistent month-over-month growth
-- Repeated customer made `9% of sales and `10.5% of profit
+- Repeated customer made 9% of sales and 10.5% of profit
 - Region & Category has negative correlation between quantity sold and profit per unit
 
 ## 📷 Sample Visuals
