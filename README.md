@@ -10,7 +10,7 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 ## 📁 Folder Structure
 - `01_Dataset & Case_Study/`: Contains raw CSV & Excel format datasets and EDA-Case Study
 - `02_Notebook/`: Jupyter Notebook with all the EDA code and visualizations
-- `03_Documentation/`: Summary of project for README or report
+- `03_Documentation/`: PDF report explaining methods and decisions
 - `04_Images/`: Plotted Chart images
 
 ## 🔧 Tools Used
